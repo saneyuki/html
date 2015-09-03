@@ -17,3 +17,15 @@ ForceType application/javascript
 <files *.pdf>
 ForceType application/pdf
 </files>
+
+<files *.txt>
+ ForceType text/plain
+</files>
+
+<files *.css>
+ ForceType text/css
+</files>
+
+<files *.html>
+ ForceType text/html
+</files>
